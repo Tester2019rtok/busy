@@ -1,13 +1,13 @@
 [update]
-newversion=1.1.0.0 (버전바뀌면 버전체크)
+newversion=1.1.0.0
 localversion=RTok.exe
 
 [files]
 count=1
 
 [file1]
-url=http://www.tmssoftware.com/update/RTok.cab (경로재설정필요)
-newversion=1.1.0.0 (버전바뀌면 버전체크)
+url=https://github.com/Tester2019rtok/busy/blob/develop/RTok.CAB
+newversion=1.1.0.0
 descr=Application
 compressed=0
 
